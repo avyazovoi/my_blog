@@ -4,7 +4,7 @@
 			Восстановление пароля
 		</div>
 	</div>
-	<?php echo $message; ?>
+	<?= $message ?>
 	<form  method="POST" class="form">
 		<div class="form__top">
 			<div class="form__item">
