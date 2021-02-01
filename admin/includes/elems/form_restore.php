@@ -1,7 +1,7 @@
 <div class="articles">
 	<div class="articles__top">
 		<div class="articles__title">
-			Восстановление пароля
+			Восстановление пароля123
 		</div>
 	</div>
 	<?= $message ?>
