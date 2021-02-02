@@ -1,4 +1,5 @@
 <?php
-function content($db, $categories){
-	include "../includes/message.php";
+function content($db, $categories)
+{
+    include "../includes/message.php";
 }
