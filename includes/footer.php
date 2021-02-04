@@ -7,8 +7,7 @@
             <ul class="footer__menu">
                 <li><a href="/" class="footer__menu_link">Главная</a></li>
                 <li><a target="_blank" href="<?= $config['fb'] ?>" class="footer__menu_link">Мой FB</a></li>
-                <li><a href="/?about_me" class="footer__menu_link">Об авторе</a></li>
-                <li><a href="pages/about_me.php" class="footer__menu_link">Правообладателям</a></li>
+                <li><a href="/?about_site" class="header__menu_link">Разработчикам</a></li>
             </ul>
         </div>
     </div>
