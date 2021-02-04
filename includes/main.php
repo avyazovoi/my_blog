@@ -8,7 +8,6 @@ function content($db, $categories)
                 Новейшее_в_блоге
             </div>
             <div class="articles__all">
-                <a href="#" class="articles__link">Все записи</a>
             </div>
         </div>
         <?php
@@ -29,7 +28,6 @@ function content($db, $categories)
                 Программирование [Новейшее]
             </div>
             <div class="articles__all">
-                <a href="#" class="articles__link">Все записи</a>
             </div>
         </div>
         <div class="articles__body">
@@ -44,7 +42,6 @@ function content($db, $categories)
                 Спорт [Новейшее]
             </div>
             <div class="articles__all">
-                <a href="#" class="articles__link">Все записи</a>
             </div>
         </div>
         <div class="articles__body">
